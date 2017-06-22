@@ -1,5 +1,6 @@
 # Sudoku-AI
 An AI Agent that can solve any Sudoku with an unique solution (or find one the multiple solutions). 
+The agent uses **constraint propagation** and **search** algorithms to solve the puzzles.
 
 In this repository you will find a python notebook (Sudoku AI.ipynb [File](https://github.com/michelucci/Sudoku-AI/blob/master/Sudoku%20AI.ipynb)) that you can directly read in github.
 
